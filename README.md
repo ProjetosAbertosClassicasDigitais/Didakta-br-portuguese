@@ -39,6 +39,6 @@ Ex.:
 *No inglês não há diferença na flexão verbal entre passado simples e imperfeito; no primeiro exemplo, a tradução do inglês seria a forma analítica em português "estava reinando"*
 
 
-3) Passado simples e *Present Perfect*
+3) Passado simples ou Pretérito Perfeito, Pretérito Perfeito Composto e *Simple Past* e *Present Perfect*
    
-A tradução do grego ao inglês pelo *Present Perfect* pode resultar em passado simples ou pretérito perfeito em português, mas no grego podemos encontrar Aoristo ou Imperfeito, dependendo do caso, requerendo verificação minuciosa dos textos.
+A tradução do grego ao inglês pelo *Present Perfect* pode resultar em passado simples ou pretérito perfeito em português, pretérito perfeito composto ou imperfeito, mas no grego podemos encontrar Aoristo, Imperfeito ou Perfeito, dependendo do caso, requerendo verificação minuciosa dos textos.
