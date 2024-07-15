@@ -3,7 +3,7 @@
 ## Projeto de [Farnoosh Shamsian](https://zenodo.org/records/11216456)
 ### see: https://zenodo.org/records/11216456 for details
 
-### *Observações sobre a tradução automática dos exemplos em inglês traduzidos do grego, correção e revisão feitas por Anise D'Orange Ferreira em relação línguas-fontes (grego e inglês) e língua alvo (português)*
+### *Algumas notas sobre a tradução automática dos exemplos em inglês traduzidos do grego, correção e revisão feitas por Anise D'Orange Ferreira em relação línguas-fontes (grego e inglês) e língua alvo (português)*
 
 #### Diferenças típicas encontradas na morfologia
 
